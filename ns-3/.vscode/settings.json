@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "*.txt": "cpp",
+        "fstream": "cpp",
+        "limits": "cpp",
+        "ostream": "cpp"
+    }
+}

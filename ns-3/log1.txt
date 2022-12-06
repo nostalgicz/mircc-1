@@ -1,0 +1,1 @@
+Waf: Entering directory `/home/dutacm/MIRCC/MIRCC05/ns-3/build'
